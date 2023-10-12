@@ -13,4 +13,8 @@ p=a/b
 #Modulo
 k=a%n
 
+<<<<<<< HEAD
 This is my venu branch
+=======
+This is my raghu branch change
+>>>>>>> origin/main
