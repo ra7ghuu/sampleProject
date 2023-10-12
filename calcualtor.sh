@@ -2,7 +2,7 @@
 x=a+b
 
 #Subtraction
-y=a-b
+l=a-b
 
 #Multiplication
 z=a*b
