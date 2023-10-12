@@ -9,3 +9,6 @@ z=a*b
 
 #Division
 p=a/b
+
+#Modulo
+k=a%n
